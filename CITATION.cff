@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Integrated Hospitality Enterprise Builder Authority Canon."
+title: "Integrated Hospitality Enterprise Builder: Authority Canon & Frameworks"
+type: software
+authors:
+  - family-names: Salas
+    given-names: George
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 2.0.0
+date-released: 2024-07-28
+repository-code: "https://github.com/GeorgeSalas/Integrated-Hospitality-Enterprise-Builder"
+license: MIT
+abstract: >
+  The permanent, versioned record of the Integrated Hospitality Enterprise Builder category,
+  including proprietary frameworks, operating systems, proof inventory, and governance standards.
+keywords:
+  - hospitality-investment
+  - enterprise-architecture
+  - strategic-integration
+  - asset-management
+  - experiential-hospitality
